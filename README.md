@@ -59,4 +59,3 @@ curl -X POST http://localhost:8000/scan/ -H "Content-Type: application/json" -d 
 
 The project is configured with GitHub Actions for continuous integration. Test cases are automatically run on every push to the main branch. Branch protection rules are set up to ensure that all tests pass before allowing code to be merged into the main branch.
 
-
